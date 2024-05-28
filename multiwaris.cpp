@@ -12,7 +12,7 @@ public:
     }
 };
 
-class pekerja : vitual public orang {
+class pekerja : virtual public orang {
 public:
 
     pekerja(int pumur) :
